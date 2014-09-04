@@ -1,6 +1,6 @@
 Package.describe({
-  summary: 'Epoch charts with Meteor',
-  version: "0.1.0",
+  summary: 'Epoch charts packaged for Meteor',
+  version: "0.1.1",
   git: "https://github.com/pfafman/meteor-epoch.git"
 });
 
