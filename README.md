@@ -15,7 +15,7 @@ meteor add pfafman:epoch
 
 ### Notes
 
-####[compatibility directory](http://docs.meteor.com/#structuringyourapp)
+####[Compatibility Directory](http://docs.meteor.com/#structuringyourapp)
 
 You can also instead of installing this package just download the epoch.js and epoch.css files and place the former in your compatibility directory
 ```
@@ -34,6 +34,6 @@ So I played with this and was getting terrible looking crap until I did the foll
 Note the epoch class.  The other stuff I saw in the docs produced sh*t but when I did the above it worked.  Also I have the size defined in the css class `the-epoch-chart`.
 
 ### References
-[Meteor](http://docs.meteor.com/)
-[Epoch](http://fastly.github.io/epoch/)
-[D3](http://d3js.org)
+* [Meteor](http://docs.meteor.com/)
+* [Epoch](http://fastly.github.io/epoch/)
+* [D3](http://d3js.org)
