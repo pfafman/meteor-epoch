@@ -7,7 +7,7 @@ Packaged by [Tim Pfafman](https://github.com/pfafman/meteor-epoch)
 
 
 ### Requirements
-* d3
+* [d3js:d3](https://atmospherejs.com/d3js/d3)
 
 
 ### How do I install this?
